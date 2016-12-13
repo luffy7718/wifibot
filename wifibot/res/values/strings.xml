@@ -1,0 +1,18 @@
+
+
+<resources>
+    <string name="app_name">Wifibot</string>
+    <string name="sForward"></string>
+    <string name="sBackward"></string>
+    <string name="sLeft"></string>
+    <string name="sRight"></string>
+    <string name="sRotate"></string>
+    <string name="sIP">adresse ip</string>
+    <string name="sSettings">option</string>
+    <string name="sState"></string>
+    <string name="sSpeed">vitesse</string>
+    <string name="sVoltage">volt</string>
+    <string name="sOn">p</string>
+    <string name="sOff"></string>
+    <string name="sCurrent"></string>
+</resources>
